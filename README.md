@@ -28,8 +28,8 @@
   
   <!-- GitHub Stats -->
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="virajverse's GitHub stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=virajverse&theme=dark" alt="virajverse's streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=virajverse&theme=dark" alt="GitHub Streak" />
   </div>
   
   <!-- Top Languages -->
@@ -39,7 +39,7 @@
   
   <!-- Trophy Case -->
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=virajverse&theme=onedark&no-frame=true&row=2&column=4" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=virajverse&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
   </div>
   
   <!-- Visitor Counter -->
@@ -58,17 +58,6 @@
       Passionate about building scalable web applications and exploring the frontiers of AI/ML
     </p>
   </blockquote>
-</div>
-
-<!-- GitHub Stats -->
-<div align="center" style="margin: 2rem 0;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajverse&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</div>
-
-<!-- GitHub Streak -->
-<div align="center" style="margin: 1.5rem 0;">
-  <img src="https://streak-stats.demolab.com?user=virajverse&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
