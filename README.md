@@ -129,9 +129,41 @@
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" title="Playwright - End-to-end testing" />
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" title="Storybook - UI component explorer" />
 </div>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+## 🚀 Featured Projects
+
+### Taliyo Employee Tracker
+
+<div align="center">
+  <p>Modern HR employee portal — daily logs, tasks, polls, resources, and an AI assistant. Built with Next.js, Firebase, and Tailwind CSS.</p>
+  
+  [![Build](https://img.shields.io/badge/build-Automated-22c55e?logo=githubactions&logoColor=white)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/actions)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-0ea5e9.svg)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/blob/main/LICENSE)
+  [![Stars](https://img.shields.io/github/stars/Viraj0001166/Taliyo-Employe-Tracker?style=social)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/stargazers)
+  [![Issues](https://img.shields.io/github/issues/Viraj0001166/Taliyo-Employe-Tracker?color=ef4444)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/issues)
+  [![PRs](https://img.shields.io/github/issues-pr/Viraj0001166/Taliyo-Employe-Tracker?color=8b5cf6)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/pulls)
+
+  <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Firebase, Firestore, shadcn/ui</p>
+  
+  <a href="https://github.com/Viraj0001166/Taliyo-Employe-Tracker" target="_blank" style="display: inline-block; margin: 0.5rem;">
+    <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+  </a>
+  <a href="https://taliyo-employe-tracker.vercel.app" target="_blank" style="display: inline-block; margin: 0.5rem;">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </div>
+
+#### ✨ Key Features:
+- ✅ Daily logs & KPI tracking
+- 📝 Task management with quick stats
+- 📊 Interactive company polls & announcements
+- 📚 Resources & templates library
+- 🤖 AI-powered assistant
+- 🗓️ Leave request system
+- 👥 Team directory
+- 🌙 Dark mode support
+
+---
 
 ### 🖥️ Backend Development
 
