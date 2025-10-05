@@ -129,41 +129,9 @@
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" title="Playwright - End-to-end testing" />
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" title="Storybook - UI component explorer" />
 </div>
-
-## 🚀 Featured Projects
-
-### Taliyo Employee Tracker
-
-<div align="center">
-  <p>Modern HR employee portal — daily logs, tasks, polls, resources, and an AI assistant. Built with Next.js, Firebase, and Tailwind CSS.</p>
-  
-  [![Build](https://img.shields.io/badge/build-Automated-22c55e?logo=githubactions&logoColor=white)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/actions)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-0ea5e9.svg)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/blob/main/LICENSE)
-  [![Stars](https://img.shields.io/github/stars/Viraj0001166/Taliyo-Employe-Tracker?style=social)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/stargazers)
-  [![Issues](https://img.shields.io/github/issues/Viraj0001166/Taliyo-Employe-Tracker?color=ef4444)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/issues)
-  [![PRs](https://img.shields.io/github/issues-pr/Viraj0001166/Taliyo-Employe-Tracker?color=8b5cf6)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/pulls)
-
-  <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Firebase, Firestore, shadcn/ui</p>
-  
-  <a href="https://github.com/Viraj0001166/Taliyo-Employe-Tracker" target="_blank" style="display: inline-block; margin: 0.5rem;">
-    <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-  </a>
-  <a href="https://taliyo-employe-tracker.vercel.app" target="_blank" style="display: inline-block; margin: 0.5rem;">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
-
-#### ✨ Key Features:
-- ✅ Daily logs & KPI tracking
-- 📝 Task management with quick stats
-- 📊 Interactive company polls & announcements
-- 📚 Resources & templates library
-- 🤖 AI-powered assistant
-- 🗓️ Leave request system
-- 👥 Team directory
-- 🌙 Dark mode support
-
----
 
 ### 🖥️ Backend Development
 
@@ -537,6 +505,61 @@ I'm passionate about sharing knowledge and contributing to the developer communi
 - 📫 How to reach me: [contact@virajverse.work.gd](mailto:contact@virajverse.work.gd)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+
+## 🚀 Featured Projects
+
+### Taliyo Employee Tracker
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-06b6d4?logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" alt="Firebase" />
+</div>
+
+A modern HR employee portal with daily logs, tasks, polls, resources, and an AI assistant. Built with Next.js, Firebase, and Tailwind CSS.
+
+#### Key Features:
+- 📝 Daily logs & KPI tracking
+- ✅ Task management with quick stats
+- 📊 Company polls & announcements
+- 📚 Resources & templates library
+- 🤖 AI-powered assistant
+- 🗓️ Leave request system
+- 👥 Team directory
+- 🌙 Dark mode support
+
+#### Quick Links:
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker)
+[![License](https://img.shields.io/badge/License-MIT-0ea5e9.svg)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/Viraj0001166/Taliyo-Employe-Tracker?color=ef4444)](https://github.com/Viraj0001166/Taliyo-Employe-Tracker/issues)
+
+#### Tech Stack:
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
+- **Backend**: Firebase (Authentication, Firestore, Storage)
+- **UI Components**: shadcn/ui, Recharts
+- **Deployment**: Vercel
+- **Testing**: Jest, Cypress
+- **AI Integration**: Google's Gemini API
+
+#### Getting Started:
+```bash
+git clone https://github.com/Viraj0001166/Taliyo-Employe-Tracker.git
+cd Taliyo-Employe-Tracker
+pnpm install
+cp .env.example .env.local
+# Add your Firebase config to .env.local
+pnpm dev
+```
+
+#### Screenshots:
+<div align="center">
+  <img src="https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Dashboard+Preview" alt="Dashboard Preview" width="45%" />
+  <img src="https://via.placeholder.com/300x600/1a1a1a/ffffff?text=Mobile+View" alt="Mobile View" width="22%" />
+</div>
+
+---
 
 ## 🎵 Currently Listening To
 
