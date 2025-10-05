@@ -1,0 +1,34 @@
+name: Update Activity
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:  # Allow manual triggering
+  push:
+    branches: [ main ]
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Update activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install python-dotenv requests
+          python .github/profile/scripts/update_activity.py
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "virajverse"
+          git config --global user.email "contact@virajverse.work.gd"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update activity data"
+          git push
