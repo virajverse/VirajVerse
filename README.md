@@ -28,13 +28,13 @@
   
   <!-- GitHub Stats -->
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=virajverse&theme=dark" alt="GitHub Streak" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=virajverse&theme=dark" alt="GitHub Streak" />
   </div>
   
   <!-- Top Languages -->
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajverse&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajverse&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
   </div>
   
   <!-- Trophy Case -->
@@ -63,7 +63,7 @@
 <!-- Activity Graph -->
 <div align="center" style="margin: 2rem 0;">
   <h2>📈 My Coding Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 <!-- Tech Stack Section -->
@@ -366,7 +366,9 @@
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=virajverse&theme=radical)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats" target="_blank">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=virajverse&theme=radical" alt="GitHub Streak" />
+</a>
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -527,7 +529,9 @@ _Last updated: Loading..._
 
 Here's a visualization of my recent GitHub activity:
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/virajverse)
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
+</div>
 
 ## 🎮 What I'm Playing
 
