@@ -365,28 +365,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   </a>
 </div>
 
-## 💡 Technical Writing & Blog
-
-I love sharing my knowledge and experiences through technical writing. Check out some of my latest articles:
-
-- [Article Title 1](https://medium.com/your-article-1) - Brief description
-- [Article Title 2](https://dev.to/your-article-2) - Brief description
-- [Article Title 3](https://yourblog.com/your-article-3) - Brief description
-
-## 🎯 Goals for 2024
-
-- [ ] Contribute to 10+ open source projects
-- [ ] Write 12+ technical articles
-- [ ] Learn and master Rust
-- [ ] Build and launch a SaaS product
-- [ ] Mentor aspiring developers
-
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=virajverse&layout=compact&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&locale=en&theme=radical" />
-</div>
 
 ## 📫 How to Reach Me
 
