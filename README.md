@@ -312,17 +312,22 @@
 
 ---
 
-### 2. Project Name 2
-> Brief description of the project
+### 2. Taliyo Employee Tracker
+> Modern HR employee portal with daily logs, tasks, polls, resources, and an AI assistant
 
-[![GitHub stars](https://img.shields.io/github/stars/virajverse/project-2?style=social)](https://github.com/virajverse/project-2)
+[![GitHub stars](https://img.shields.io/github/stars/virajverse/Taliyo-Employe-Tracker?style=social)](https://github.com/virajverse/Taliyo-Employe-Tracker)
 [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue)](https://example.com)
-[![Tech Stack](https://img.shields.io/badge/🔧-Tech_Stack-2ea44f)](https://github.com/virajverse/project-2#tech-stack)
+[![Tech Stack](https://img.shields.io/badge/🔧-Tech_Stack-2ea44f)](https://github.com/virajverse/Taliyo-Employe-Tracker#tech-stack)
 
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Daily logs & KPI tracking
+- Task management with quick stats
+- Company polls & announcements
+- Resources & templates library
+- AI-powered assistant
+- Leave request system
+- Team directory
+- Dark mode support
 
 ---
 
