@@ -28,13 +28,13 @@
   
   <!-- GitHub Stats -->
   <div align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=virajverse&theme=dark" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=virajverse&theme=dark" alt="GitHub Streak" />
   </div>
   
   <!-- Top Languages -->
   <div align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajverse&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajverse&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
   </div>
   
   <!-- Trophy Case -->
@@ -63,7 +63,7 @@
 <!-- Activity Graph -->
 <div align="center" style="margin: 2rem 0;">
   <h2>📈 My Coding Activity</h2>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 <!-- Tech Stack Section -->
@@ -347,29 +347,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=virajverse&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/virajverse/taliyo-ai">
-    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=virajverse&repo=taliyo-ai&theme=radical" />
-  </a>
-  <a href="https://github.com/virajverse/project-2">
-    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=virajverse&repo=project-2&theme=radical" />
-  </a>
-  <a href="https://github.com/virajverse/project-3">
-    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=virajverse&repo=project-3&theme=radical" />
-  </a>
-  <a href="https://github.com/virajverse/project-4">
-    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=virajverse&repo=project-4&theme=radical" />
-  </a>
-</div>
-
-## 📈 GitHub Streak
-
-<a href="https://git.io/streak-stats" target="_blank">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=virajverse&theme=radical" alt="GitHub Streak" />
-</a>
-
 ## 🤝 Let's Connect & Collaborate
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the platforms below:
@@ -529,9 +506,7 @@ _Last updated: Loading..._
 
 Here's a visualization of my recent GitHub activity:
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
-</div>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/virajverse)
 
 ## 🎮 What I'm Playing
 
