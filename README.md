@@ -26,11 +26,7 @@
     </a>
   </p>
   
-  <!-- GitHub Stats -->
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virajverse&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=virajverse&theme=dark" alt="GitHub Streak" />
-  </div>
+  
   
   <!-- Top Languages -->
   <div align="center">
