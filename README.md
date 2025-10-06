@@ -125,8 +125,6 @@
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" title="Playwright - End-to-end testing" />
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" title="Storybook - UI component explorer" />
 </div>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
 ### 🖥️ Backend Development
@@ -200,10 +198,6 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django - Python web framework" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Flask - Python micro web framework" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI - Modern Python web framework" />
-  
-  <!-- API & Query Languages -->
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL - Query language for APIs" />
-  <img alt="REST API" src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" title="REST - Representational State Transfer" />
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" title="gRPC - High performance RPC framework" />
   <img alt="tRPC" src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=typescript&logoColor=white" title="tRPC - End-to-end typesafe APIs" />
 </div>
@@ -212,8 +206,6 @@
 <div>
   <!-- SQL Databases -->
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL - Structured Query Language" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL - Open-source relational database" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL - Advanced open-source relational database" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite - C-language library that implements a small, fast, self-contained SQL database" />
   
   <!-- NoSQL Databases -->
@@ -260,7 +252,6 @@
 
 #### 🤖 AI/ML & Data Science
 <div>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python - Primary language for AI/ML" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow - Open source machine learning framework" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch - Open source machine learning library" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=python&logoColor=white" title="LangChain - Framework for developing applications powered by language models" />
