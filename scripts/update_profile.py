@@ -93,7 +93,7 @@ def generate_story(activities):
         prompt = (
             "Write a short, engaging, and professional developer status update stating that I (Viraj) am currently "
             "refining my codebase, planning new features, or researching advanced technologies like Rust and Web3. "
-            "Keep it to exactly 1 sentence, write it in first-person ('I...'), and include an emoji. "
+            "Keep it to exactly 1 sentence, write it in first-person ('I...'), and do NOT include any emojis. "
             "Do not include any quote marks or surrounding text."
         )
     else:
@@ -107,8 +107,7 @@ Based on this activity, write a premium, short, and highly engaging "Developer D
 Guidelines:
 - Keep it under 2 sentences.
 - Make it sound energetic, professional, and highlight the technical achievements (e.g. optimizing speed, adding authentication, fixing bugs).
-- Use 1 or 2 relevant emojis.
-- Do NOT use markdown code blocks or wrapper text. Just output the plain text diary entry.
+- Do NOT use any emojis or markdown code blocks. Just output the plain text diary entry.
 - Do NOT make things up; stick strictly to the actual code changes shown in the commits.
 """
 
@@ -220,7 +219,7 @@ if __name__ == "__main__":
     story_text = generate_story(parsed_acts)
     if not story_text:
         # Fallback story if API fails or key is missing
-        story_text = "I am currently coding, learning new technologies, and building open-source projects! 💻"
+        story_text = "I am currently coding, learning new technologies, and building open-source projects!"
         
     print(f"Generated Story: {story_text}")
     

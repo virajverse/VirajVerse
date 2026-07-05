@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <h1>👋 Hello, I'm Viraj Srivastava</h1>
+  <h1><img src="https://api.iconify.design/lucide/hand.svg?color=%234ade80" width="28" height="28" valign="middle" /> Hello, I'm Viraj Srivastava</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Open+Source+Contributor;Tech+Writer;Problem+Solver" alt="Typing SVG" />
   
   <p align="center">
@@ -58,17 +58,17 @@
 
 <!-- Activity Graph -->
 <div align="center" style="margin: 2rem 0;">
-  <h2>📈 My Coding Activity</h2>
+  <h2><img src="https://api.iconify.design/lucide/line-chart.svg?color=%2310b981" width="22" height="22" valign="middle" /> My Coding Activity</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 <!-- Tech Stack Section -->
 <div align="center" style="margin: 2rem 0;">
-  <h2>🚀 Tech Stack & Tools</h2>
+  <h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%233b82f6" width="22" height="22" valign="middle" /> Tech Stack & Tools</h2>
   <p>Technologies and tools I work with on a daily basis</p>
 </div>
 
-### 🌐 Frontend Development
+### <img src="https://api.iconify.design/lucide/globe.svg?color=%2306b6d4" width="20" height="20" valign="middle" /> Frontend Development
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <!-- Core Web Technologies -->
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5 - Structure of webpage" />
@@ -78,7 +78,7 @@
   <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" title="WebAssembly - High-performance web apps" />
 </div>
 
-#### 🏗️ Frameworks & Libraries
+#### <img src="https://api.iconify.design/lucide/layout.svg?color=%238b5cf6" width="18" height="18" valign="middle" /> Frameworks & Libraries
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React.js - JavaScript library for building user interfaces" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.js - React framework for production" />
@@ -87,7 +87,7 @@
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" title="Svelte - Cybernetically enhanced web apps" />
 </div>
 
-#### 🎨 Styling & UI
+#### <img src="https://api.iconify.design/lucide/palette.svg?color=%23ec4899" width="18" height="18" valign="middle" /> Styling & UI
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS - Utility-first CSS framework" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap - CSS framework" />
@@ -97,7 +97,7 @@
   <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" title="Chakra UI - Simple, modular and accessible UI components" />
 </div>
 
-#### 🧭 State Management
+#### <img src="https://api.iconify.design/lucide/compass.svg?color=%23f59e0b" width="18" height="18" valign="middle" /> State Management
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux - Predictable state container for JavaScript apps" />
   <img alt="Zustand" src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" title="Zustand - Bear necessities for state management" />
@@ -106,7 +106,7 @@
   <img alt="Jotai" src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=react&logoColor=white" title="Jotai - Primitive and flexible state management for React" />
 </div>
 
-#### 🔄 API & Data Fetching
+#### <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%2314b8a6" width="18" height="18" valign="middle" /> API & Data Fetching
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL - Query language for APIs" />
   <img alt="Apollo Client" src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" title="Apollo Client - State management for GraphQL" />
@@ -117,7 +117,7 @@
   <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" title="React Query - Data synchronization for React" />
 </div>
 
-#### 🧪 Testing
+#### <img src="https://api.iconify.design/lucide/beaker.svg?color=%2322c55e" width="18" height="18" valign="middle" /> Testing
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest - JavaScript testing framework" />
   <img alt="Testing Library" src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" title="Testing Library - Simple and complete testing utilities" />
@@ -127,9 +127,9 @@
 </div>
 </div>
 
-### 🖥️ Backend Development
+### <img src="https://api.iconify.design/lucide/server.svg?color=%23ef4444" width="20" height="20" valign="middle" /> Backend Development
 
-#### 🚀 Server-Side Technologies
+#### <img src="https://api.iconify.design/lucide/cpu.svg?color=%23f97316" width="18" height="18" valign="middle" /> Server-Side Technologies
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js - JavaScript runtime" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js - Fast, unopinionated web framework for Node.js" />
@@ -146,7 +146,7 @@
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET - Free, cross-platform, open-source developer platform" />
 </div>
 
-#### 🗃️ Databases
+#### <img src="https://api.iconify.design/lucide/database.svg?color=%23eab308" width="18" height="18" valign="middle" /> Databases
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL - Open-source relational database" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL - Advanced open-source relational database" />
@@ -159,7 +159,7 @@
   <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" title="Amazon DynamoDB - NoSQL database service" />
 </div>
 
-#### ☁️ Cloud & DevOps
+#### <img src="https://api.iconify.design/lucide/cloud.svg?color=%230984e3" width="18" height="18" valign="middle" /> Cloud & DevOps
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="Amazon Web Services" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" title="Google Cloud Platform" />
@@ -173,7 +173,7 @@
   <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" title="Apache - Web server software" />
 </div>
 
-#### 🔒 Authentication & Security
+#### <img src="https://api.iconify.design/lucide/lock.svg?color=%23d63031" width="18" height="18" valign="middle" /> Authentication & Security
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" title="JSON Web Tokens" />
   <img alt="OAuth" src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" title="OAuth - Open standard for access delegation" />
@@ -182,7 +182,7 @@
   <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-ED8B00?style=for-the-badge&logo=keycloak&logoColor=white" title="Keycloak - Open Source Identity and Access Management" />
 </div>
 
-#### 🔄 API Development
+#### <img src="https://api.iconify.design/lucide/share-2.svg?color=%2300cec9" width="18" height="18" valign="middle" /> API Development
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 2rem 0;">
   <img alt="REST API" src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" title="REST - Representational State Transfer" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL - Query language for APIs" />
@@ -202,7 +202,7 @@
   <img alt="tRPC" src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=typescript&logoColor=white" title="tRPC - End-to-end typesafe APIs" />
 </div>
 
-### 🗃️ Databases & Data Stores
+### <img src="https://api.iconify.design/lucide/database.svg?color=%23eab308" width="18" height="18" valign="middle" /> Databases & Data Stores
 <div>
   <!-- SQL Databases -->
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL - Structured Query Language" />
@@ -241,30 +241,30 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-### 🛠️ Other Tools & Technologies
+### <img src="https://api.iconify.design/lucide/tool.svg?color=%236c5ce7" width="20" height="20" valign="middle" /> Other Tools & Technologies
 
-#### 📝 Markup & Data Formats
+#### <img src="https://api.iconify.design/lucide/file-text.svg?color=%23e84393" width="18" height="18" valign="middle" /> Markup & Data Formats
 <div>
   <img alt="XML" src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" title="eXtensible Markup Language" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" title="JavaScript Object Notation" />
   <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" title="YAML - Human-readable data serialization" />
 </div>
 
-#### 🤖 AI/ML & Data Science
+#### <img src="https://api.iconify.design/lucide/brain.svg?color=%2300b894" width="18" height="18" valign="middle" /> AI/ML & Data Science
 <div>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow - Open source machine learning framework" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch - Open source machine learning library" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=python&logoColor=white" title="LangChain - Framework for developing applications powered by language models" />
 </div>
 
-#### 🧩 CMS & Template Languages
+#### <img src="https://api.iconify.design/lucide/puzzle.svg?color=%23fd79a8" width="18" height="18" valign="middle" /> CMS & Template Languages
 <div>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress - Content management system" />
   <img alt="Liquid" src="https://img.shields.io/badge/Liquid-222222?style=for-the-badge&logo=shopify&logoColor=white" title="Liquid - Template language for web applications" />
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" title="Jekyll - Static site generator" />
 </div>
 
-#### 🔧 DevOps & Build Tools
+#### <img src="https://api.iconify.design/lucide/terminal.svg?color=%23ffeaa7" width="18" height="18" valign="middle" /> DevOps & Build Tools
 <div>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker - Containerization platform" />
   <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" title="YAML - Configuration files for CI/CD" />
@@ -273,7 +273,7 @@
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" title="Terraform - Infrastructure as code" />
 </div>
 
-#### 🚀 Currently Learning & Exploring
+#### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2300dec9" width="18" height="18" valign="middle" /> Currently Learning & Exploring
 <div>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" title="Rust - Systems programming language" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" title="Go - Statically typed, compiled language" />
@@ -281,7 +281,7 @@
   <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" title="Blockchain - Distributed ledger technology" />
 </div>
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23ff7675" width="22" height="22" valign="middle" /> Featured Projects
 
 ### 1. Taliyo AI - AI-Powered Assistant
 > Full-stack AI chat application with document understanding and web search capabilities
@@ -372,11 +372,11 @@ If you find my work helpful or enjoy my open-source projects, consider supportin
 
 > "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
 
-## 🎵 Currently Listening To
+## <img src="https://api.iconify.design/lucide/music.svg?color=%231db954" width="22" height="22" valign="middle" /> Currently Listening To
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31hkxbhhahhvlihccy5hxz4pojvm&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31hkxbhhahhvlihccy5hxz4pojvm)
 
-## 📅 Daily Development Breakdown
+## <img src="https://api.iconify.design/lucide/pie-chart.svg?color=%23fdcb6e" width="22" height="22" valign="middle" /> Daily Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -452,12 +452,12 @@ I'm passionate about sharing knowledge and contributing to the developer communi
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 
-## 🤖 AI Dev Diary & Real-Time Activity
+## <img src="https://api.iconify.design/lucide/bot.svg?color=%2300b894" width="22" height="22" valign="middle" /> AI Dev Diary & Real-Time Activity
 
 <!-- START_SECTION:ai-diary -->
 
-> 🤖 **AI Dev Diary** (Updated 2026-07-05 23:24:08 UTC):
-> *"I am currently coding, learning new technologies, and building open-source projects! 💻"*
+> 🤖 **AI Dev Diary** (Updated 2026-07-05 23:31:19 UTC):
+> *"I am currently coding, learning new technologies, and building open-source projects!"*
 
 <!-- END_SECTION:ai-diary -->
 
@@ -468,19 +468,19 @@ I'm passionate about sharing knowledge and contributing to the developer communi
 <details>
   <summary>📂 View Dev Diary History (Past Stories)</summary>
   <ul>
-    <li><strong>2026-07-06:</strong> I successfully cloned the VirajVerse repository and started implementing advanced features, including the automated Gemini AI Dev Diary! 🤖🚀</li>
+    <li><strong>2026-07-06:</strong> I successfully cloned the VirajVerse repository and started implementing advanced features, including the automated Gemini AI Dev Diary!</li>
   </ul>
 </details>
 
 <!-- END_SECTION:ai-diary-archive -->
 
-## 📊 My Coding Activity
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%23d63031" width="22" height="22" valign="middle" /> My Coding Activity
 
 Here's a visualization of my recent GitHub activity:
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/virajverse)
 
-## 🎯 What's Next?
+## <img src="https://api.iconify.design/lucide/flag.svg?color=%2300b894" width="22" height="22" valign="middle" /> What's Next?
 
 I'm always looking for new challenges and opportunities to grow. Here's what I'm focusing on next:
 
@@ -489,7 +489,7 @@ I'm always looking for new challenges and opportunities to grow. Here's what I'm
 - Writing a book about [topic]
 - Speaking at tech conferences
 
-## 🤝 Let's Work Together
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%236c5ce7" width="22" height="22" valign="middle" /> Let's Work Together
 
 I'm open to:
 - Freelance projects
@@ -498,11 +498,11 @@ I'm open to:
 - Mentoring
 - Open source collaboration
 
-## 📬 Get in Touch
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%230984e3" width="22" height="22" valign="middle" /> Get in Touch
 
 The best way to reach me is through [email](mailto:contact@virajverse.work.gd) or [LinkedIn](https://linkedin.com/in/viraj-srivastav/). I try to respond to all messages within 24-48 hours.
 
-## 🙏 Thank You!
+## <img src="https://api.iconify.design/lucide/smile.svg?color=%23fd79a8" width="22" height="22" valign="middle" /> Thank You!
 
 Thank you for visiting my profile! I appreciate you taking the time to learn more about me and my work. Feel free to reach out if you'd like to collaborate or just chat about tech!
 
