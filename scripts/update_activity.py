@@ -33,7 +33,7 @@ def get_github_activity():
 
 def update_readme(activity_data):
     # Read current README
-    with open('PROFILE-README.md', 'r', encoding='utf-8') as f:
+    with open('README.md', 'r', encoding='utf-8') as f:
         readme = f.read()
     
     # Generate activity section
@@ -66,7 +66,7 @@ _Last updated: {now}_
         readme = readme[:intro_end] + '\n' + activity_section + '\n' + readme[intro_end:]
     
     # Write back to README
-    with open('PROFILE-README.md', 'w', encoding='utf-8') as f:
+    with open('README.md', 'w', encoding='utf-8') as f:
         f.write(readme)
 
 if __name__ == "__main__":

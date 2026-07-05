@@ -330,10 +330,6 @@
 - Feature 2
 - Feature 3
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=virajverse&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🤝 Let's Connect & Collaborate
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the platforms below:
@@ -378,7 +374,7 @@ If you find my work helpful or enjoy my open-source projects, consider supportin
 
 ## 🎵 Currently Listening To
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31hkxbhhahhvlihccy5hxz4pojvm&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31hkxbhhahhvlihccy5hxz4pojvm)
 
 ## 📅 Daily Development Breakdown
 
@@ -456,30 +452,33 @@ I'm passionate about sharing knowledge and contributing to the developer communi
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 
-## 🎵 Currently Listening To
+## 🤖 AI Dev Diary & Real-Time Activity
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yourusername)
+<!-- START_SECTION:ai-diary -->
 
-## 🕒 Real-Time Activity
+> 🤖 **AI Dev Diary** (Updated 2026-07-05 23:24:08 UTC):
+> *"I am currently coding, learning new technologies, and building open-source projects! 💻"*
 
-_Last updated: Loading..._
+<!-- END_SECTION:ai-diary -->
 
-### Recent GitHub Activity
-- Fetching your latest activity...
+[🔍 Search Dev Diary by Custom Date Range](https://virajverse.work.gd/diary)
+
+<!-- START_SECTION:ai-diary-archive -->
+
+<details>
+  <summary>📂 View Dev Diary History (Past Stories)</summary>
+  <ul>
+    <li><strong>2026-07-06:</strong> I successfully cloned the VirajVerse repository and started implementing advanced features, including the automated Gemini AI Dev Diary! 🤖🚀</li>
+  </ul>
+</details>
+
+<!-- END_SECTION:ai-diary-archive -->
 
 ## 📊 My Coding Activity
 
 Here's a visualization of my recent GitHub activity:
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=virajverse&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/virajverse)
-
-## 🎮 What I'm Playing
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yourusername)
-
-## 📚 Currently Reading
-
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/youruserid)
 
 ## 🎯 What's Next?
 

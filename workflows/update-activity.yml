@@ -2,7 +2,7 @@ name: Update Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual triggering
   push:
     branches: [ main ]
@@ -18,17 +18,18 @@ jobs:
         with:
           python-version: '3.10'
           
-      - name: Update activity
+      - name: Update activity and Dev Diary
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          pip install python-dotenv requests
-          python .github/profile/scripts/update_activity.py
+          pip install requests
+          python scripts/update_profile.py
           
       - name: Commit and push changes
         run: |
           git config --global user.name "virajverse"
           git config --global user.email "contact@virajverse.work.gd"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update activity data"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update profile data and AI dev diary"
           git push
