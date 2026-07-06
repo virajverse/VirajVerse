@@ -76,15 +76,15 @@
     
     <text x="0" y="28" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">System Role  :</tspan> AI Systems Engineer | Full-Stack Developer</text>
     <text x="0" y="52" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">Active Cores :</tspan> React, Next.js, Supabase, Node.js, Python</text>
-    <text x="0" y="76" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">System Status:</tspan> <tspan class="term-purple">🚀</tspan> Architecting multi-provider LLM gateways &amp; copilots</text>
+    <text x="0" y="76" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">System Status:</tspan> <tspan class="term-purple">🚀</tspan> Architecting LLM gateways &amp; copilots</text>
     <text x="0" y="100" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">Location      :</tspan> Delhi, India</text>
   </g>
 
-  <!-- Divider Line -->
-  <line x1="500" y1="40" x2="500" y2="210" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Divider Line (Adjusted slightly to x=515 to give left side more width) -->
+  <line x1="515" y1="40" x2="515" y2="210" stroke="#30363d" stroke-width="1.5"/>
 
-  <!-- Right Column: Engine Telemetry -->
-  <g transform="translate(520, 75)">
+  <!-- Right Column: Engine Telemetry (Shifted slightly to x=535) -->
+  <g transform="translate(535, 75)">
     <text x="0" y="0" class="term-label">📊 Engine Telemetry</text>
     
     <!-- Progress Bars -->
