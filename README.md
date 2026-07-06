@@ -137,7 +137,7 @@ graph TD
     subgraph Hub ["Central Profile Orchestrator"]
         VV["VirajVerse / profile"]
     end
-    style Hub fill:#0d1117,stroke:#3b82f6,stroke-width:1px,stroke-dasharray: 5 5;
+    style Hub fill:none,stroke:#3b82f6,stroke-width:1px,stroke-dasharray: 5 5;
     class VV hub;
 
     subgraph AI ["AI & Analytics Engines"]
@@ -145,7 +145,7 @@ graph TD
         QP["Quotex-AI-Pro (Trading analytics)"]
         GT["Goal-Tracker-AI (Progress parser)"]
     end
-    style AI fill:#0d1117,stroke:#10b981,stroke-width:1px,stroke-dasharray: 5 5;
+    style AI fill:none,stroke:#10b981,stroke-width:1px,stroke-dasharray: 5 5;
     class TA,QP,GT ai;
 
     subgraph Frontends ["Visual Dashboards & UIs"]
@@ -153,14 +153,14 @@ graph TD
         PT["portfolio (NextJS Creative Hub)"]
         DW["Daily-Work-DashBoard"]
     end
-    style Frontends fill:#0d1117,stroke:#8b5cf6,stroke-width:1px,stroke-dasharray: 5 5;
+    style Frontends fill:none,stroke:#8b5cf6,stroke-width:1px,stroke-dasharray: 5 5;
     class UB,PT,DW ui;
 
     subgraph Tools ["Utilities & Real-Time Sync"]
         WT["Watch-Together-Movies-Series"]
         DR["dailytoutineapp (Scheduler)"]
     end
-    style Tools fill:#0d1117,stroke:#f59e0b,stroke-width:1px,stroke-dasharray: 5 5;
+    style Tools fill:none,stroke:#f59e0b,stroke-width:1px,stroke-dasharray: 5 5;
     class WT,DR utility;
 
     VV -->|Aggregates Stats| TA
