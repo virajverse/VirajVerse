@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="terminal_card.svg?v=1.0.1" width="100%" alt="System Status Console" />
+  <img src="terminal_card.svg?v=fresh-boot" width="100%" alt="System Status Console" />
   
   <p align="center" style="margin-top: 15px;">
     <a href="https://linkedin.com/in/viraj-srivastav" target="_blank">
