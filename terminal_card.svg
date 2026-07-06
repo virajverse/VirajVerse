@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340">
+  <defs>
+    <!-- Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap');
+      .term-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 13px;
+        fill: #c9d1d9;
+      }
+      .term-header-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 12px;
+        font-weight: bold;
+        fill: #58a6ff;
+      }
+      .term-bold {
+        font-weight: bold;
+      }
+      .term-title {
+        font-size: 16px;
+        font-weight: bold;
+        fill: #7ee787;
+      }
+      .term-label {
+        fill: #ff7b72;
+        font-weight: bold;
+      }
+      .term-dim {
+        fill: #8b949e;
+      }
+      .term-success {
+        fill: #7ee787;
+      }
+      .term-blue {
+        fill: #58a6ff;
+      }
+      .term-orange {
+        fill: #f59e0b;
+      }
+      .term-purple {
+        fill: #a855f7;
+      }
+      .pulse-dot {
+        animation: pulse 2s infinite;
+      }
+      @keyframes pulse {
+        0% { opacity: 1; }
+        50% { opacity: 0.2; }
+        100% { opacity: 1; }
+      }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect x="1" y="1" width="798" height="338" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Header Bar -->
+  <line x1="1" y1="40" x2="799" y2="40" stroke="#30363d" stroke-width="1.5"/>
+  <text x="20" y="25" class="term-header-text">>_ virajsrivastav@core-node:~$ systemctl status engineer</text>
+  
+  <!-- System Online Status Dot -->
+  <g transform="translate(620, 18)">
+    <circle cx="4" cy="5" r="4" fill="#27c93f" class="pulse-dot"/>
+    <text x="16" y="9" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#27c93f">SYSTEM ONLINE</text>
+  </g>
+  
+  <!-- Mac Window Dots -->
+  <circle cx="750" cy="25" r="5" fill="#ff5f56"/>
+  <circle cx="768" cy="25" r="5" fill="#ffbd2e"/>
+  <circle cx="786" cy="25" r="5" fill="#27c93f"/>
+
+  <!-- Left Column: Personal info -->
+  <!-- Hello, I'm Viraj Srivastava -->
+  <g transform="translate(20, 75)">
+    <text x="0" y="0" class="term-title">👋 Hello, I'm Viraj Srivastava</text>
+    
+    <text x="0" y="28" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">System Role  :</tspan> AI Systems Engineer | Full-Stack Developer</text>
+    <text x="0" y="52" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">Active Cores :</tspan> React, Next.js, Supabase, Node.js, Python</text>
+    <text x="0" y="76" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">System Status:</tspan> <tspan class="term-purple">🚀</tspan> Architecting multi-provider LLM gateways &amp; copilots</text>
+    <text x="0" y="100" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">Location      :</tspan> Delhi, India</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="500" y1="40" x2="500" y2="210" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Right Column: Engine Telemetry -->
+  <g transform="translate(520, 75)">
+    <text x="0" y="0" class="term-label">📊 Engine Telemetry</text>
+    
+    <!-- Progress Bars -->
+    <text x="0" y="28" class="term-text">AI Pipelines  : <tspan fill="#7ee787">██████████ 100%</tspan></text>
+    <text x="0" y="52" class="term-text">Backend Arch  : <tspan fill="#7ee787">████████░░  80%</tspan></text>
+    <text x="0" y="76" class="term-text">Frontend Core : <tspan fill="#7ee787">█████████░  90%</tspan></text>
+    <text x="0" y="100" class="term-text">Product Logic : <tspan fill="#7ee787">██████████ 100%</tspan></text>
+  </g>
+
+  <!-- Bottom Panel Divider -->
+  <line x1="1" y1="210" x2="799" y2="210" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Boot Logs -->
+  <g transform="translate(20, 235)">
+    <text x="0" y="0" class="term-text"><tspan class="term-blue">[boot@core-engine ~]#</tspan> init --verbose</text>
+    <text x="0" y="20" class="term-text"><tspan class="term-success">[  OK  ]</tspan> Core virtual nodes initialized successfully.</text>
+    <text x="0" y="40" class="term-text"><tspan class="term-success">[  OK  ]</tspan> Synapse AI memory caches loaded.</text>
+    <text x="0" y="60" class="term-text"><tspan class="term-orange">[ WAIT ]</tspan> Mapping 3D WebGL telemetry visualization console... (85%)</text>
+    <text x="0" y="80" class="term-text"><tspan class="term-blue">[ INFO ]</tspan> Listener active at http://localhost:8080/telemetry</text>
+  </g>
+</svg>

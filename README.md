@@ -1,53 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; font-family: monospace;">
-    <!-- Row 1: Header Bar -->
-    <tr>
-      <td colspan="2" style="padding: 15px 20px 10px 20px; border-bottom: 1px solid #30363d;">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td align="left"><span style="color: #58a6ff; font-size: 12px; font-weight: bold;"><img src="https://api.iconify.design/lucide/terminal.svg?color=%2358a6ff" width="13" height="13" valign="middle" /> virajsrivastav@core-node:~$ systemctl status engineer</span></td>
-            <td align="right" valign="middle">
-              <span style="color: #8b949e; font-size: 11px; font-weight: bold; vertical-align: middle;">
-                <img src="https://api.iconify.design/lucide/circle.svg?color=%2327c93f&amp;fill=%2327c93f" width="8" height="8" valign="middle" style="margin-right: 4px;" />
-                <span style="color: #27c93f; margin-right: 15px;">SYSTEM ONLINE</span>
-              </span>
-              <span style="color: #ff5f56; font-size: 14px; vertical-align: middle;">●</span> <span style="color: #ffbd2e; font-size: 14px; vertical-align: middle;">●</span> <span style="color: #27c93f; font-size: 14px; vertical-align: middle;">●</span>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <!-- Row 2: Content Columns -->
-    <tr>
-      <!-- Left Column -->
-      <td width="65%" valign="top" style="padding: 20px;  line-height: 1.6; font-size: 13px; text-align: left;">
-        <p style="color: #7ee787; font-size: 17px; font-weight: bold; margin: 0 0 10px 0;"><img src="https://api.iconify.design/lucide/hand.svg?color=%237ee787" width="18" height="18" valign="middle" /> Hello, I'm Viraj Srivastava</p>
-        <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>System Role  :</strong> AI Systems Engineer | Full-Stack Developer</p>
-        <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>Active Cores :</strong> React, Next.js, Supabase, Node.js, Python</p>
-        <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>System Status:</strong> <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a855f7" width="13" height="13" valign="middle" /> Architecting multi-provider LLM gateways &amp; copilots</p>
-        <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>Location      :</strong> Delhi, India</p>
-      </td>
-      <!-- Right Column -->
-      <td width="35%" valign="top" style="padding: 20px; color: #8b949e; line-height: 1.6; font-size: 13px; border-left: 1px solid #30363d; text-align: left;">
-        <p style="color: #ff7b72; font-weight: bold; margin: 0 0 8px 0;"><img src="https://api.iconify.design/lucide/activity.svg?color=%23ff7b72" width="16" height="16" valign="middle" /> Engine Telemetry</p>
-        <p style="margin: 3px 0;">AI Pipelines  : <span style="color: #7ee787;">██████████ 100%</span></p>
-        <p style="margin: 3px 0;">Backend Arch  : <span style="color: #7ee787;">████████░░  80%</span></p>
-        <p style="margin: 3px 0;">Frontend Core : <span style="color: #7ee787;">█████████░  90%</span></p>
-        <p style="margin: 3px 0;">Product Logic : <span style="color: #7ee787;">██████████ 100%</span></p>
-      </td>
-    </tr>
-    <!-- Row 3: Console Boot Logs -->
-    <tr>
-      <td colspan="2" style="padding: 12px 20px 18px 20px; border-top: 1px solid #30363d; font-family: monospace; font-size: 11.5px; color: #8b949e; text-align: left; line-height: 1.5;">
-        <span style="color: #58a6ff; font-weight: bold;">[boot@core-engine ~]#</span> init --verbose<br/>
-        <span style="color: #4ade80;">[  OK  ]</span> Core virtual nodes initialized successfully.<br/>
-        <span style="color: #4ade80;">[  OK  ]</span> Synapse AI memory caches loaded.<br/>
-        <span style="color: #f59e0b;">[ WAIT ]</span> Mapping 3D WebGL telemetry visualization console... (85%)<br/>
-        <span style="color: #58a6ff;">[ INFO ]</span> Listener active at http://localhost:8080/telemetry
-      </td>
-    </tr>
-  </table>
+  <img src="terminal_card.svg" width="100%" alt="System Status Console" />
   
   <p align="center" style="margin-top: 15px;">
     <a href="https://linkedin.com/in/viraj-srivastav" target="_blank">
