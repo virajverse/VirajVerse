@@ -7,16 +7,12 @@
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td align="left"><span style="color: #58a6ff; font-size: 12px; font-weight: bold;"><img src="https://api.iconify.design/lucide/terminal.svg?color=%2358a6ff" width="13" height="13" valign="middle" /> virajsrivastav@core-node:~$ systemctl status engineer</span></td>
-            <td align="right" style="display: flex; align-items: center; justify-content: flex-end; gap: 8px;">
-              <span style="color: #8b949e; font-size: 11px; font-weight: bold; display: inline-flex; align-items: center; gap: 4px;">
-                <svg width="8" height="8" viewBox="0 0 8 8" style="vertical-align: middle;">
-                  <circle cx="4" cy="4" r="3" fill="#27c93f">
-                    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-                  </circle>
-                </svg>
-                <span style="color: #27c93f;">SYSTEM ONLINE</span>
+            <td align="right" valign="middle">
+              <span style="color: #8b949e; font-size: 11px; font-weight: bold; vertical-align: middle;">
+                <img src="https://api.iconify.design/lucide/circle.svg?color=%2327c93f&amp;fill=%2327c93f" width="8" height="8" valign="middle" style="margin-right: 4px;" />
+                <span style="color: #27c93f; margin-right: 15px;">SYSTEM ONLINE</span>
               </span>
-              <span style="color: #ff5f56; font-size: 14px;">●</span> <span style="color: #ffbd2e; font-size: 14px;">●</span> <span style="color: #27c93f; font-size: 14px;">●</span>
+              <span style="color: #ff5f56; font-size: 14px; vertical-align: middle;">●</span> <span style="color: #ffbd2e; font-size: 14px; vertical-align: middle;">●</span> <span style="color: #27c93f; font-size: 14px; vertical-align: middle;">●</span>
             </td>
           </tr>
         </table>
@@ -29,7 +25,7 @@
         <p style="color: #7ee787; font-size: 17px; font-weight: bold; margin: 0 0 10px 0;"><img src="https://api.iconify.design/lucide/hand.svg?color=%237ee787" width="18" height="18" valign="middle" /> Hello, I'm Viraj Srivastava</p>
         <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>System Role  :</strong> AI Systems Engineer | Full-Stack Developer</p>
         <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>Active Cores :</strong> React, Next.js, Supabase, Node.js, Python</p>
-        <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>System Status:</strong> Architecting multi-provider LLM gateways &amp; copilots <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a855f7" width="14" height="14" valign="middle" /></p>
+        <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>System Status:</strong> <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a855f7" width="13" height="13" valign="middle" /> Architecting multi-provider LLM gateways &amp; copilots</p>
         <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>Location      :</strong> Delhi, India</p>
       </td>
       <!-- Right Column -->
