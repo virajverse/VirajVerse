@@ -129,10 +129,10 @@
 
 ```mermaid
 graph TD
-    classDef hub fill:rgba(59,130,246,0.1),stroke:#3b82f6,stroke-width:1px;
-    classDef ai fill:rgba(16,185,129,0.1),stroke:#10b981,stroke-width:1px;
-    classDef ui fill:rgba(139,92,246,0.1),stroke:#8b5cf6,stroke-width:1px;
-    classDef utility fill:rgba(245,158,11,0.1),stroke:#f59e0b,stroke-width:1px;
+    classDef hub fill:#3b82f61a,stroke:#3b82f6,stroke-width:1px;
+    classDef ai fill:#10b9811a,stroke:#10b981,stroke-width:1px;
+    classDef ui fill:#8b5cf61a,stroke:#8b5cf6,stroke-width:1px;
+    classDef utility fill:#f59e0b1a,stroke:#f59e0b,stroke-width:1px;
 
     subgraph Hub ["Central Profile Orchestrator"]
         VV["VirajVerse / profile"]
