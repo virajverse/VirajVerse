@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" viewBox="0 0 360 200">
+  <rect width="358" height="198" rx="8" x="1" y="1" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <text x="180" y="25" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#7ee787">SYSTEM CORE LANGUAGES</text>
+  
+  <!-- Concentric Circles (Orbits) -->
+  <circle cx="120" cy="110" r="60" fill="none" stroke="#1f242c" stroke-width="8" />
+  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="185.42, 191.57" stroke-linecap="round" transform="rotate(-90 120 110)" />
+
+  <circle cx="120" cy="110" r="46" fill="none" stroke="#1f242c" stroke-width="8" />
+  <circle cx="120" cy="110" r="46" fill="none" stroke="#f59e0b" stroke-width="8" stroke-dasharray="55.15, 233.88" stroke-linecap="round" transform="rotate(-90 120 110)" />
+
+  <circle cx="120" cy="110" r="32" fill="none" stroke="#1f242c" stroke-width="8" />
+  <circle cx="120" cy="110" r="32" fill="none" stroke="#ec4899" stroke-width="8" stroke-dasharray="28.37, 172.69" stroke-linecap="round" transform="rotate(-90 120 110)" />
+
+
+  <!-- Legend -->
+  <g transform="translate(210, 45)" font-family="monospace" font-size="11" fill="#c9d1d9">
+    <circle cx="10" cy="15" r="5" fill="#8b5cf6" />
+    <text x="22" y="19" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">49.2%</tspan></text>
+
+    <circle cx="10" cy="35" r="5" fill="#f59e0b" />
+    <text x="22" y="39" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">19.1%</tspan></text>
+
+    <circle cx="10" cy="55" r="5" fill="#ec4899" />
+    <text x="22" y="59" fill="#c9d1d9">Python <tspan fill="#8b949e">14.1%</tspan></text>
+
+    <circle cx="10" cy="75" r="5" fill="#10b981" />
+    <text x="22" y="79" fill="#c9d1d9">HTML <tspan fill="#8b949e">13.8%</tspan></text>
+
+    <circle cx="10" cy="95" r="5" fill="#3b82f6" />
+    <text x="22" y="99" fill="#c9d1d9">Other <tspan fill="#8b949e">3.8%</tspan></text>
+
+  </g>
+</svg>
