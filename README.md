@@ -21,7 +21,7 @@
     <!-- Row 2: Content Columns -->
     <tr>
       <!-- Left Column -->
-      <td width="65%" valign="top" style="padding: 20px; color: #c9d1d9; line-height: 1.6; font-size: 13px; text-align: left;">
+      <td width="65%" valign="top" style="padding: 20px;  line-height: 1.6; font-size: 13px; text-align: left;">
         <p style="color: #7ee787; font-size: 17px; font-weight: bold; margin: 0 0 10px 0;"><img src="https://api.iconify.design/lucide/hand.svg?color=%237ee787" width="18" height="18" valign="middle" /> Hello, I'm Viraj Srivastava</p>
         <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>System Role  :</strong> AI Systems Engineer | Full-Stack Developer</p>
         <p style="margin: 4px 0;"><span style="color: #8b949e;">&gt;_</span> <strong>Active Cores :</strong> React, Next.js, Supabase, Node.js, Python</p>
@@ -69,7 +69,7 @@
 <div align="center" style="margin-top: 15px;">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td style="border-left: 3px solid #8b5cf6; border-right: 1px solid #30363d; border-top: 1px solid #30363d; border-bottom: 1px solid #30363d; border-radius: 4px; padding: 15px; background: #0d1117; font-family: monospace; font-size: 13px; color: #c9d1d9; line-height: 1.5; font-style: italic; text-align: left;">
+      <td style="border-left: 3px solid #8b5cf6; border-right: 1px solid #30363d; border-top: 1px solid #30363d; border-bottom: 1px solid #30363d; border-radius: 4px; padding: 15px; background: #0d1117; font-family: monospace; font-size: 13px;  line-height: 1.5; font-style: italic; text-align: left;">
         "AI-focused Full Stack Developer with hands-on experience building production-grade systems across AI engineering, SaaS platforms, developer tools, and consumer applications."
       </td>
     </tr>
@@ -129,10 +129,10 @@
 
 ```mermaid
 graph TD
-    classDef hub fill:#161b22,stroke:#3b82f6,stroke-width:1px,color:#c9d1d9;
-    classDef ai fill:#161b22,stroke:#10b981,stroke-width:1px,color:#c9d1d9;
-    classDef ui fill:#161b22,stroke:#8b5cf6,stroke-width:1px,color:#c9d1d9;
-    classDef utility fill:#161b22,stroke:#f59e0b,stroke-width:1px,color:#c9d1d9;
+    classDef hub fill:#161b22,stroke:#3b82f6,stroke-width:1px,
+    classDef ai fill:#161b22,stroke:#10b981,stroke-width:1px,
+    classDef ui fill:#161b22,stroke:#8b5cf6,stroke-width:1px,
+    classDef utility fill:#161b22,stroke:#f59e0b,stroke-width:1px,
 
     subgraph Hub ["Central Profile Orchestrator"]
         VV["VirajVerse / profile"]
@@ -180,13 +180,13 @@ graph TD
 
 <table border="0" cellpadding="20" cellspacing="0" width="100%" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; font-family: monospace; font-size: 13px; margin-bottom: 20px;">
   <tr>
-    <td width="50%" valign="top" style="color: #c9d1d9; line-height: 1.6; text-align: left; padding: 20px;">
+    <td width="50%" valign="top" style=" line-height: 1.6; text-align: left; padding: 20px;">
       <p style="color: #58a6ff; font-weight: bold; margin: 0 0 10px 0;"><img src="https://api.iconify.design/lucide/cpu.svg?color=%2358a6ff" width="16" height="16" valign="middle" /> Core AI &amp; Product Engineering</p>
       <p style="margin: 4px 0; color: #8b949e;">LLM Gateway &amp; RAG  : <span style="color: #7ee787;">██████████ 100%</span></p>
       <p style="margin: 4px 0; color: #8b949e;">Context Orchestration: <span style="color: #7ee787;">█████████░  90%</span></p>
       <p style="margin: 4px 0; color: #8b949e;">Multi-Agent Systems  : <span style="color: #7ee787;">████████░░  80%</span></p>
     </td>
-    <td width="50%" valign="top" style="color: #c9d1d9; line-height: 1.6; text-align: left; border-left: 1px solid #30363d; padding: 20px; padding-left: 25px;">
+    <td width="50%" valign="top" style=" line-height: 1.6; text-align: left; border-left: 1px solid #30363d; padding: 20px; padding-left: 25px;">
       <p style="color: #a855f7; font-weight: bold; margin: 0 0 10px 0;"><img src="https://api.iconify.design/lucide/server.svg?color=%23a855f7" width="16" height="16" valign="middle" /> Backend &amp; Data Pipeline Metrics</p>
       <p style="margin: 4px 0; color: #8b949e;">API Design &amp; Logic   : <span style="color: #a855f7;">█████████░  90%</span></p>
       <p style="margin: 4px 0; color: #8b949e;">Database Optimization : <span style="color: #a855f7;">████████░░  80%</span></p>
@@ -199,21 +199,21 @@ graph TD
   <tr>
     <td width="50%" valign="top" style="padding-right: 10px;">
       <h3 style="border-bottom: 1px solid #30363d; padding-bottom: 5px; color: #3b82f6;"><img src="https://api.iconify.design/lucide/globe.svg?color=%233b82f6" width="16" height="16" valign="middle" /> Frontend Architecture</h3>
-      <p style="font-size: 13px; line-height: 1.5; color: #c9d1d9;">Next.js, React, TypeScript, Tailwind CSS, Svelte, Angular, Redux, Zustand</p>
+      <p style="font-size: 13px; line-height: 1.5; ">Next.js, React, TypeScript, Tailwind CSS, Svelte, Angular, Redux, Zustand</p>
     </td>
     <td width="50%" valign="top" style="padding-left: 10px;">
       <h3 style="border-bottom: 1px solid #30363d; padding-bottom: 5px; color: #ef4444;"><img src="https://api.iconify.design/lucide/server.svg?color=%23ef4444" width="16" height="16" valign="middle" /> Backend & Database</h3>
-      <p style="font-size: 13px; line-height: 1.5; color: #c9d1d9;">Node.js, FastAPI, Python, NestJS, Express.js, Laravel, PostgreSQL, MongoDB, Redis</p>
+      <p style="font-size: 13px; line-height: 1.5; ">Node.js, FastAPI, Python, NestJS, Express.js, Laravel, PostgreSQL, MongoDB, Redis</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding-right: 10px; padding-top: 15px;">
       <h3 style="border-bottom: 1px solid #30363d; padding-bottom: 5px; color: #10b981;"><img src="https://api.iconify.design/lucide/bot.svg?color=%2310b981" width="16" height="16" valign="middle" /> AI/ML & Data Science</h3>
-      <p style="font-size: 13px; line-height: 1.5; color: #c9d1d9;">LLM APIs, LangChain, TensorFlow, PyTorch, Python, LLM System Design</p>
+      <p style="font-size: 13px; line-height: 1.5; ">LLM APIs, LangChain, TensorFlow, PyTorch, Python, LLM System Design</p>
     </td>
     <td width="50%" valign="top" style="padding-left: 10px; padding-top: 15px;">
       <h3 style="border-bottom: 1px solid #30363d; padding-bottom: 5px; color: #f59e0b;"><img src="https://api.iconify.design/lucide/cloud.svg?color=%23f59e0b" width="16" height="16" valign="middle" /> Cloud & DevOps</h3>
-      <p style="font-size: 13px; line-height: 1.5; color: #c9d1d9;">AWS, Google Cloud, Docker, Kubernetes, Terraform, GitHub Actions, Nginx</p>
+      <p style="font-size: 13px; line-height: 1.5; ">AWS, Google Cloud, Docker, Kubernetes, Terraform, GitHub Actions, Nginx</p>
     </td>
   </tr>
 </table>
@@ -330,7 +330,7 @@ graph TD
 
 ## <img src="https://api.iconify.design/lucide/calendar.svg?color=%2358a6ff" width="22" height="22" valign="middle" /> Timeline &amp; Journey
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-family: monospace; font-size: 13px; color: #c9d1d9; line-height: 1.6; border-collapse: collapse;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-family: monospace; font-size: 13px;  line-height: 1.6; border-collapse: collapse;">
   <tr>
     <td width="15%" valign="top" style="color: #58a6ff; font-weight: bold; text-align: right; padding-right: 15px; border-right: 2px solid #30363d; padding-bottom: 20px;">
       2023 - Present
