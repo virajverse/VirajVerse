@@ -60,13 +60,10 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="33%" valign="top" align="center" style="padding-right: 6px;">
+    <td width="50%" valign="top" align="center" style="padding-right: 10px;">
       <img src="languages.svg" alt="System Core Languages" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" />
     </td>
-    <td width="34%" valign="top" align="center" style="padding-left: 6px; padding-right: 6px;">
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=virajverse&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Viraj's GitHub Stats" style="width: 100%; border-radius: 8px;" />
-    </td>
-    <td width="33%" valign="top" align="center" style="padding-left: 6px;">
+    <td width="50%" valign="top" align="center" style="padding-left: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajverse&theme=dark&background=0d1117&ring=8b5cf6&fire=ff7b72&currStreakNum=7ee787&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border=30363d&hide_border=false" alt="Viraj's Streak Stats" style="width: 100%; border-radius: 8px;" />
     </td>
   </tr>
