@@ -1,6 +1,10 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="terminal_card.svg?v=fresh-boot" width="100%" alt="System Status Console" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Viraj's Developer Profile Banner" src="dark.svg" width="100%">
+  </picture>
   
   <p align="center" style="margin-top: 15px;">
     <a href="https://linkedin.com/in/viraj-srivastav" target="_blank">
@@ -12,7 +16,7 @@
     <a href="mailto:virajsrivastav016@gmail.com" target="_blank">
       <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>    
-    <a href="https://virajverse.work.gd" target="_blank">
+    <a href="https://virajverseportfolio.vercel.app/" target="_blank">
       <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
     </a>
   </p>
@@ -40,7 +44,7 @@
 
 <!-- END_SECTION:ai-diary -->
 
-[<img src="https://api.iconify.design/lucide/search.svg?color=%230984e3" width="13" height="13" valign="middle" /> Search past logs by custom date range](https://virajverse.work.gd/diary)
+[<img src="https://api.iconify.design/lucide/search.svg?color=%230984e3" width="13" height="13" valign="middle" /> Search past logs by custom date range](https://virajverseportfolio.vercel.app/diary)
 
 <!-- START_SECTION:ai-diary-archive -->
 
@@ -290,21 +294,22 @@ graph TD
     </td>
     <td width="80%" valign="top" style="padding-left: 15px; padding-bottom: 20px; text-align: left;">
       <strong style="color: #7ee787;">Full-Stack Product Engineer (Freelance)</strong><br/>
-      Designed and shipped 10+ production-grade SaaS platforms, multi-provider LLM gateways, and CRM/invoice automation systems. Optimized performance indicators (LCP/CDN caching) and improved conversion conversion pipelines.
+      Designed and shipped 10+ production-grade SaaS platforms, multi-provider LLM gateways, and CRM/invoice automation systems. Optimized performance indicators (LCP/CDN caching) and improved conversion pipelines.
     </td>
   </tr>
   <tr>
     <td width="15%" valign="top" style="color: #58a6ff; font-weight: bold; text-align: right; padding-right: 15px; border-right: 2px solid #30363d; padding-bottom: 20px;">
-      2026
+      2022 - Present
     </td>
     <td width="5%" valign="top" align="center" style="position: relative; padding-bottom: 20px;">
-      <span style="color: #a855f7; font-size: 16px; position: absolute; left: -9px; top: -2px;">●</span>
+      <span style="color: #10b981; font-size: 16px; position: absolute; left: -9px; top: -2px;">●</span>
     </td>
     <td width="80%" valign="top" style="padding-left: 15px; padding-bottom: 20px; text-align: left;">
-      <strong style="color: #a855f7;">B.Com (Hons) — Delhi University</strong><br/>
-      Graduated from Delhi University, blending business economics and product development management.
+      <strong style="color: #10b981;">Self-Taught Developer — Freelance Full Stack &amp; AI Development</strong><br/>
+      Project-driven, hands-on learning focused on Full Stack Development and AI systems (STT, TTS, Computer Vision). Built real-world web applications, backend APIs, databases, Electron-based desktop apps, and AI-powered automation aligned with client and product requirements.
     </td>
   </tr>
+
   <tr>
     <td width="15%" valign="top" style="color: #58a6ff; font-weight: bold; text-align: right; padding-right: 15px; border-right: 2px solid #30363d; padding-bottom: 20px;">
       2023
@@ -349,7 +354,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="https://linkedin.com/in/viraj-srivastav/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://virajverse.work.gd" target="_blank">
+  <a href="https://virajverseportfolio.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
   <a href="mailto:virajsrivastav016@gmail.com" target="_blank">
