@@ -70,9 +70,9 @@
   <circle cx="786" cy="25" r="5" fill="#27c93f"/>
 
   <!-- Left Column: Personal info -->
-  <!-- Hello, I'm Viraj Srivastava -->
+  <!-- Hello, I'm Viraj -->
   <g transform="translate(20, 75)">
-    <text x="0" y="0" class="term-title">👋 Hello, I'm Viraj Srivastava</text>
+    <text x="0" y="0" class="term-title">👋 Hello, I'm Viraj</text>
     
     <text x="0" y="28" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">System Role  :</tspan> AI Systems Engineer | Full-Stack Developer</text>
     <text x="0" y="52" class="term-text"><tspan class="term-dim">&gt;_</tspan> <tspan class="term-bold">Active Cores :</tspan> React, Next.js, Supabase, Node.js, Python</text>

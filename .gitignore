@@ -7,7 +7,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+/viraj profile image.png
 # Operating System files
 Thumbs.db
 ehthumbs.db
