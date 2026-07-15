@@ -4,31 +4,31 @@
   
   <!-- Concentric Circles (Orbits) -->
   <circle cx="120" cy="110" r="60" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="202.12, 174.87" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="226.17, 150.82" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
   <circle cx="120" cy="110" r="46" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="46" fill="none" stroke="#f59e0b" stroke-width="8" stroke-dasharray="49.86, 239.17" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="46" fill="none" stroke="#f59e0b" stroke-width="8" stroke-dasharray="53.67, 235.35" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
   <circle cx="120" cy="110" r="32" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="32" fill="none" stroke="#ec4899" stroke-width="8" stroke-dasharray="26.15, 174.91" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="32" fill="none" stroke="#ec4899" stroke-width="8" stroke-dasharray="31.11, 169.96" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
 
   <!-- Legend -->
   <g transform="translate(210, 45)" font-family="monospace" font-size="11" fill="#c9d1d9">
     <circle cx="10" cy="15" r="5" fill="#8b5cf6" />
-    <text x="22" y="19" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">53.6%</tspan></text>
+    <text x="22" y="19" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">60.0%</tspan></text>
 
     <circle cx="10" cy="35" r="5" fill="#f59e0b" />
-    <text x="22" y="39" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">17.3%</tspan></text>
+    <text x="22" y="39" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">18.6%</tspan></text>
 
     <circle cx="10" cy="55" r="5" fill="#ec4899" />
-    <text x="22" y="59" fill="#c9d1d9">Python <tspan fill="#8b949e">13.0%</tspan></text>
+    <text x="22" y="59" fill="#c9d1d9">Python <tspan fill="#8b949e">15.5%</tspan></text>
 
     <circle cx="10" cy="75" r="5" fill="#10b981" />
-    <text x="22" y="79" fill="#c9d1d9">HTML <tspan fill="#8b949e">12.5%</tspan></text>
+    <text x="22" y="79" fill="#c9d1d9">CSS <tspan fill="#8b949e">2.2%</tspan></text>
 
     <circle cx="10" cy="95" r="5" fill="#3b82f6" />
-    <text x="22" y="99" fill="#c9d1d9">Other <tspan fill="#8b949e">3.6%</tspan></text>
+    <text x="22" y="99" fill="#c9d1d9">Other <tspan fill="#8b949e">3.8%</tspan></text>
 
   </g>
 </svg>
