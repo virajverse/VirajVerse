@@ -296,6 +296,40 @@ graph TD
       </div>
     </td>
   </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 8px; padding-top: 16px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background: #0d1117; height: 195px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; flex-wrap: wrap; gap: 4px;">
+            <h4 style="margin: 0; color: #58a6ff; font-size: 13.5px; font-weight: bold;"><img src="https://api.iconify.design/lucide/search.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> AI-Researcher</h4>
+            <span style="font-size: 9.5px; color: #38bdf8; border: 1px solid #38bdf8; border-radius: 12px; padding: 1px 8px; font-family: monospace;">Autonomous AI  MCP Intel</span>
+          </div>
+          <p style="font-size: 11.5px; color: #8b949e; margin: 0; line-height: 1.5; text-align: left;">Forensic AI corporate intelligence and executive pre-meeting briefing engine. Crawls multi-channel corporate records, team structures, and tech stacks autonomously.</p>
+        </div>
+        <div style="display: flex; gap: 8px; font-size: 11.5px; margin-top: 10px; align-items: center;">
+          <a href="https://github.com/virajverse/AI-Researcher" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: bold;"><img src="https://api.iconify.design/lucide/github.svg?color=%2358a6ff" width="12" height="12" valign="middle" /> GitHub</a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 8px; padding-top: 16px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background: #0d1117; height: 195px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; flex-wrap: wrap; gap: 4px;">
+            <h4 style="margin: 0; color: #58a6ff; font-size: 13.5px; font-weight: bold;"><img src="https://api.iconify.design/lucide/cpu.svg?color=%23a855f7" width="16" height="16" valign="middle" /> Infinity Scraper &amp; Spectra</h4>
+            <span style="font-size: 9.5px; color: #a855f7; border: 1px solid #a855f7; border-radius: 12px; padding: 1px 8px; font-family: monospace;">Web Automation  MCP Suite</span>
+          </div>
+          <p style="font-size: 11.5px; color: #8b949e; margin: 0; line-height: 1.5; text-align: left;">Industrial-strength headless SPA rendering, real-browser CDP stealth automation, and deep OSINT data extraction MCP servers powering autonomous agents.</p>
+        </div>
+        <div style="display: flex; gap: 8px; font-size: 11.5px; margin-top: 10px; align-items: center;">
+          <a href="https://github.com/virajverse/infinity-scraper" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: bold;"><img src="https://api.iconify.design/lucide/github.svg?color=%2358a6ff" width="12" height="12" valign="middle" /> Infinity Scraper</a>
+          <span style="color: #30363d;">|</span>
+          <a href="https://github.com/virajverse/spectra-browser-mcp" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: bold;"><img src="https://api.iconify.design/lucide/github.svg?color=%2358a6ff" width="12" height="12" valign="middle" /> Spectra MCP</a>
+        </div>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <p align="center" style="font-size: 12px; color: #8b949e; margin-top: 15px;">
