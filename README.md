@@ -101,38 +101,53 @@ graph TD
     style Hub fill:none,stroke:#3b82f6,stroke-width:1px,stroke-dasharray: 5 5;
     class VV hub;
 
-    subgraph AI ["AI & Analytics Engines"]
-        TA["Taliyo-AI (Chat System)"]
-        QP["Quotex-AI-Pro (Trading analytics)"]
-        GT["Goal-Tracker-AI (Progress parser)"]
+    subgraph AI ["AI & Agentic Systems (MCP & RAG)"]
+        AR["AI-Researcher (Autonomous Corporate Intel)"]
+        IS["infinity-scraper (Dynamic Web & OSINT MCP)"]
+        SB["spectra-browser-mcp (Browser Automation & CDP)"]
+        TA["Taliyo-AI (Multi-Provider LLM & RAG)"]
+        QP["Quotex-AI-Pro (Predictive Analytics)"]
     end
     style AI fill:none,stroke:#10b981,stroke-width:1px,stroke-dasharray: 5 5;
-    class TA,QP,GT ai;
+    class AR,IS,SB,TA,QP ai;
 
-    subgraph Frontends ["Visual Dashboards & UIs"]
-        UB["Universe-No-1-Brain-Ui (3D Visualizer)"]
-        PT["portfolio (NextJS Creative Hub)"]
-        DW["Daily-Work-DashBoard"]
+    subgraph Frontends ["Enterprise SaaS & Visual Dashboards"]
+        TT["Taliyo-Technologies-Admin-panel (Full-Stack Next.js/Node SaaS)"]
+        DW["Daily-Work-DashBoard (Productivity & Push Sync)"]
+        VP["VirajVersePortfolio (3D Interactive Next.js 14)"]
+        UB["Universe-No-1-Brain-Ui (Three.js Neural Telemetry)"]
     end
     style Frontends fill:none,stroke:#8b5cf6,stroke-width:1px,stroke-dasharray: 5 5;
-    class UB,PT,DW ui;
+    class TT,DW,VP,UB ui;
 
-    subgraph Tools ["Utilities & Real-Time Sync"]
-        WT["Watch-Together-Movies-Series"]
-        DR["dailytoutineapp (Scheduler)"]
+    subgraph Tools ["Real-Time Systems & High-Perf Utilities"]
+        SM["screen-mirroring-for-friends (AirCast WebRTC 60FPS)"]
+        WT["Watch-Together-Movies-Series (Supabase Sync)"]
+        TS["free-tts-and-stt-by-Viraj (Neural Voice Studio)"]
+        DR["dailytoutineapp (Routine Scheduler)"]
     end
     style Tools fill:none,stroke:#f59e0b,stroke-width:1px,stroke-dasharray: 5 5;
-    class WT,DR utility;
+    class SM,WT,TS,DR utility;
 
-    VV -->|Aggregates Stats| TA
-    VV -->|Parses Analytics| QP
-    VV -->|Tracks Metrics| GT
+    VV -->|Dispatches Tasks| AR
+    VV -->|Orchestrates Scrapers| IS
+    VV -->|Controls Automation| SB
+    VV -->|Aggregates AI Context| TA
+
+    IS -->|Supplies Live Web Data| AR
+    SB -->|DOM & Session Bridge| IS
+
+    TA -->|Powers Copilot & Billing| TT
+    AR -->|Feeds Lead Insights| TT
     
     TA -->|Signals Telemetry| UB
-    GT -->|Populates| DW
-    
-    UB -->|Embedded in| PT
-    WT -->|Linked to| PT
+    UB -->|Embedded Experience| VP
+    TT -->|Showcased on| VP
+    DW -->|Integrated with| VP
+
+    VV -->|Manages Real-Time Media| SM
+    SM -->|P2P WebRTC Signaling| WT
+    TS -->|Voice I/O Layer| TA
 ```
 
 ---
