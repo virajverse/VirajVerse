@@ -4,13 +4,13 @@
   
   <!-- Concentric Circles (Orbits) -->
   <circle cx="120" cy="110" r="60" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="235.16, 141.84" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="235.22, 141.77" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
   <circle cx="120" cy="110" r="46" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="46" fill="none" stroke="#f59e0b" stroke-width="8" stroke-dasharray="48.72, 240.30" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="46" fill="none" stroke="#f59e0b" stroke-width="8" stroke-dasharray="48.70, 240.33" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
   <circle cx="120" cy="110" r="32" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="32" fill="none" stroke="#ec4899" stroke-width="8" stroke-dasharray="17.16, 183.90" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="32" fill="none" stroke="#ec4899" stroke-width="8" stroke-dasharray="17.15, 183.91" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
 
   <!-- Legend -->
@@ -19,7 +19,7 @@
     <text x="22" y="19" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">62.4%</tspan></text>
 
     <circle cx="10" cy="35" r="5" fill="#f59e0b" />
-    <text x="22" y="39" fill="#c9d1d9">Python <tspan fill="#8b949e">16.9%</tspan></text>
+    <text x="22" y="39" fill="#c9d1d9">Python <tspan fill="#8b949e">16.8%</tspan></text>
 
     <circle cx="10" cy="55" r="5" fill="#ec4899" />
     <text x="22" y="59" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">8.5%</tspan></text>
