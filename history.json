@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-09-20",
+    "story": "I drove rapid iterations across the Jupsoft centralized blog platform and Next.js blog, continuously shipping codebase updates to refine and align both architectures."
+  },
+  {
+    "date": "2026-09-20",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   },
   {
@@ -194,9 +198,5 @@
   {
     "date": "2026-08-26",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
-  },
-  {
-    "date": "2026-08-26",
-    "story": "I focused on rapid development across my autonomous agent pipelines, pushing several key updates to the Graphic Designer Holiday Agent and the AI-Researcher codebase. Additionally, I branched out my audio tooling to expand support for custom text-to-speech and speech-to-text workflows."
   }
 ]
