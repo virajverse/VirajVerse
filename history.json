@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-09-22",
+    "story": "I am currently coding, learning new technologies, and building open-source projects!"
+  },
+  {
     "date": "2026-09-21",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   },
@@ -194,9 +198,5 @@
   {
     "date": "2026-08-29",
     "story": "I focused on rapid development across my ecosystem, shipping multiple updates to the Spectra Browser MCP integration while advancing key AI agent and tooling repositories including Infinity Scraper and AI-Researcher."
-  },
-  {
-    "date": "2026-08-28",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
