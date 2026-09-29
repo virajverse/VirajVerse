@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-09-29",
+    "story": "I am currently coding, learning new technologies, and building open-source projects!"
+  },
+  {
     "date": "2026-09-28",
     "story": "I spent an intensive development session pushing continuous updates and refinements to the Jupsoft centralized blog platform. I focused on iterating rapidly across the codebase to advance the core platform architecture and streamline the overall system."
   },
@@ -194,9 +198,5 @@
   {
     "date": "2026-09-05",
     "story": "I led an intensive development sprint across my active toolchain, shipping targeted updates to Spectra Browser MCP and Infinity Scraper while advancing core progress on Phantom Fortress, ManagerBot Pro, and AI-Researcher."
-  },
-  {
-    "date": "2026-09-05",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
