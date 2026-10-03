@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-10-03",
+    "story": "I am currently coding, learning new technologies, and building open-source projects!"
+  },
+  {
+    "date": "2026-10-03",
     "story": "I pushed a series of continuous iterations and codebase refinements to the Jupsoft centralized blog platform, steadily advancing the architecture through focused, rapid deployments."
   },
   {
@@ -193,10 +197,6 @@
   },
   {
     "date": "2026-09-11",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
-  },
-  {
-    "date": "2026-09-10",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
