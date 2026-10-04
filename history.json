@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-10-04",
+    "story": "I focused on driving rapid development sprints for the Jupsoft centralized blog platform while actively testing and deploying updates across my demo environment."
+  },
+  {
+    "date": "2026-10-04",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   },
   {
@@ -194,9 +198,5 @@
   {
     "date": "2026-09-13",
     "story": "I pushed updates across my automation and tooling stack, iterating heavily on the Spectra browser MCP server, infinity-scraper pipelines, and the Taliyo admin platform. In parallel, I shipped refinements to my AI Researcher and portfolio systems while branching out the foundation for Phantom Fortress."
-  },
-  {
-    "date": "2026-09-12",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
