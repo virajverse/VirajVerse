@@ -4,10 +4,10 @@
   
   <!-- Concentric Circles (Orbits) -->
   <circle cx="120" cy="110" r="60" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="223.49, 153.50" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="223.46, 153.53" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
   <circle cx="120" cy="110" r="46" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="46" fill="none" stroke="#f59e0b" stroke-width="8" stroke-dasharray="62.58, 226.45" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="46" fill="none" stroke="#f59e0b" stroke-width="8" stroke-dasharray="62.61, 226.42" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
   <circle cx="120" cy="110" r="32" fill="none" stroke="#1f242c" stroke-width="8" />
   <circle cx="120" cy="110" r="32" fill="none" stroke="#ec4899" stroke-width="8" stroke-dasharray="11.83, 189.23" stroke-linecap="round" transform="rotate(-90 120 110)" />
