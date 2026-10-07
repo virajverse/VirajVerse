@@ -4,7 +4,7 @@
   
   <!-- Concentric Circles (Orbits) -->
   <circle cx="120" cy="110" r="60" fill="none" stroke="#1f242c" stroke-width="8" />
-  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="225.54, 151.45" stroke-linecap="round" transform="rotate(-90 120 110)" />
+  <circle cx="120" cy="110" r="60" fill="none" stroke="#8b5cf6" stroke-width="8" stroke-dasharray="225.55, 151.45" stroke-linecap="round" transform="rotate(-90 120 110)" />
 
   <circle cx="120" cy="110" r="46" fill="none" stroke="#1f242c" stroke-width="8" />
   <circle cx="120" cy="110" r="46" fill="none" stroke="#f59e0b" stroke-width="8" stroke-dasharray="61.76, 227.26" stroke-linecap="round" transform="rotate(-90 120 110)" />
