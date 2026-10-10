@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-10-10",
+    "story": "I led an intensive development sprint on the Jupsoft centralized blog platform, rolling out a series of rapid iterations to refine and advance the codebase."
+  },
+  {
+    "date": "2026-10-10",
     "story": "I led a high-velocity development sprint on the Jupsoft centralized blog platform, shipping continuous updates across multiple focused iterations. These rapid deployments drove active progress toward refining and advancing the platform's core codebase."
   },
   {
@@ -193,10 +197,6 @@
   },
   {
     "date": "2026-09-18",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
-  },
-  {
-    "date": "2026-09-17",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
