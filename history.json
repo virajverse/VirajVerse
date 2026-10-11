@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-11",
+    "story": "I drove an intensive development sprint pushing continuous iterations to the centralized blog platform. Each push focused on refining the project's codebase and keeping development momentum at full throttle."
+  },
+  {
     "date": "2026-10-10",
     "story": "I dove into an intensive development sprint on the Jupsoft centralized blog platform, pushing a series of focused updates to rapidly iterate and refine the codebase. This active push cycle maintains strong momentum as I continue building out the core platform architecture."
   },
@@ -194,9 +198,5 @@
   {
     "date": "2026-09-19",
     "story": "I pushed a series of rapid, iterative updates to the Jupsoft centralized blog platform while spinning up a fresh development branch on my Next.js website project."
-  },
-  {
-    "date": "2026-09-18",
-    "story": "I focused on a high-velocity development sprint for the Jupsoft centralized blog platform, shipping continuous updates to iterate on and refine the core codebase. This intensive push drove critical progress across the repository, keeping momentum high as the platform takes shape."
   }
 ]
