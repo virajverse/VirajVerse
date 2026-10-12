@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-10-12",
+    "story": "I focused on an intensive development sprint across the Jupsoft centralized blog platform, pushing a series of continuous updates to refine the core architecture. Each commit drives the platform closer to a seamless, production-ready publishing experience."
+  },
+  {
+    "date": "2026-10-12",
     "story": "I executed an intensive development sprint on the Jupsoft centralized blog platform, pushing a series of rapid iterations to advance the core system. Every commit was focused on refining the codebase and driving the platform closer to a polished, production-ready state."
   },
   {
@@ -194,9 +198,5 @@
   {
     "date": "2026-09-20",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
-  },
-  {
-    "date": "2026-09-20",
-    "story": "I focused on driving intensive development across the Jupsoft centralized blog platform and its Next.js frontend, pushing targeted updates to refine both codebases. These iterative improvements keep the architecture tightly synchronized and optimized for scalable content management."
   }
 ]
