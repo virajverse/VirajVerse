@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-10-19",
+    "story": "I am currently coding, learning new technologies, and building open-source projects!"
+  },
+  {
+    "date": "2026-10-19",
     "story": "I led a high-velocity development sprint focused on rapid iterations across the Jupsoft centralized blog platform while pushing continuous updates to the Spectra browser MCP and infinity scraper. This focused effort maintained strong momentum across my primary platform architecture and supporting automation tools."
   },
   {
@@ -194,9 +198,5 @@
   {
     "date": "2026-09-30",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
-  },
-  {
-    "date": "2026-09-30",
-    "story": "I spent an intensive session driving rapid iterations on the centralized blog platform, pushing a continuous sequence of updates to advance the codebase."
   }
 ]
