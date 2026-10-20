@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-10-20",
+    "story": "I am currently coding, learning new technologies, and building open-source projects!"
+  },
+  {
+    "date": "2026-10-20",
     "story": "I focused my recent sprint on shipping continuous updates to the centralized blog platform, refining the Spectra browser MCP integration, and enhancing Infinity Scraper. These pushes drive reliability and performance across my active developer tooling and automation pipelines."
   },
   {
@@ -193,10 +197,6 @@
   },
   {
     "date": "2026-10-02",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
-  },
-  {
-    "date": "2026-10-01",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
