@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-27",
+    "story": "I am currently coding, learning new technologies, and building open-source projects!"
+  },
+  {
     "date": "2026-10-26",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   },
@@ -194,9 +198,5 @@
   {
     "date": "2026-10-11",
     "story": "I drove an intensive development sprint pushing continuous iterations to the centralized blog platform. Each push focused on refining the project's codebase and keeping development momentum at full throttle."
-  },
-  {
-    "date": "2026-10-10",
-    "story": "I dove into an intensive development sprint on the Jupsoft centralized blog platform, pushing a series of focused updates to rapidly iterate and refine the codebase. This active push cycle maintains strong momentum as I continue building out the core platform architecture."
   }
 ]
