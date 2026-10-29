@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-10-29",
+    "story": "During an intensive development sprint, I pushed several rounds of updates across DocuVerse and the Jupsoft centralized blog platform to accelerate progress on both codebases."
+  },
+  {
+    "date": "2026-10-29",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   },
   {
@@ -194,9 +198,5 @@
   {
     "date": "2026-10-13",
     "story": "I focused on an intensive development sprint for the Jupsoft centralized blog platform, shipping a continuous stream of iterative updates to drive the project forward. Through rapid and consistent pushes, I kept the platform's codebase actively evolving and steadily progressing."
-  },
-  {
-    "date": "2026-10-13",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
