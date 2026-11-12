@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-11-12",
+    "story": "I am currently coding, learning new technologies, and building open-source projects!"
+  },
+  {
+    "date": "2026-11-12",
     "story": "I drove an intensive development sprint pushing continuous updates and refinements across DocuVerse and company-autopilot to advance core functionality on both projects."
   },
   {
@@ -194,9 +198,5 @@
   {
     "date": "2026-10-22",
     "story": "I spent the past few hours in a high-velocity sprint, branching new feature workflows on DocuVerse and shipping iterative updates across the Jupsoft centralized blog platform. Both codebases saw continuous refinements as I pushed forward on their core implementations."
-  },
-  {
-    "date": "2026-10-22",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
