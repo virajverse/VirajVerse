@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-11-20",
+    "story": "I am currently coding, learning new technologies, and building open-source projects!"
+  },
+  {
+    "date": "2026-11-20",
     "story": "I focused on driving rapid iterations and shipping core updates across DocuVerse, company-autopilot, and the New Taliyo Marketplace app. It was an intensive, multi-repo development sprint dedicated to delivering continuous progress across my active projects."
   },
   {
@@ -194,9 +198,5 @@
   {
     "date": "2026-10-26",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
-  },
-  {
-    "date": "2026-10-26",
-    "story": "I spent the last several hours driving intensive updates across the Jupsoft centralized blog platform alongside continuous enhancements to DocuVerse. This rapid development sprint pushed multiple iterations across both codebases to keep feature momentum moving forward seamlessly."
   }
 ]
