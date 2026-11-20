@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-11-20",
+    "story": "I spent an intensive sprint pushing rapid updates and refinements across the New Taliyo Marketplace app, DocuVerse, and company-autopilot. Balancing progress across all three codebases kept momentum high as I iterated on core features and advanced each project's development."
+  },
+  {
+    "date": "2026-11-20",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   },
   {
@@ -193,10 +197,6 @@
   },
   {
     "date": "2026-10-27",
-    "story": "I am currently coding, learning new technologies, and building open-source projects!"
-  },
-  {
-    "date": "2026-10-26",
     "story": "I am currently coding, learning new technologies, and building open-source projects!"
   }
 ]
